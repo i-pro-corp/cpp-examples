@@ -30,3 +30,33 @@
 *.exe
 *.out
 *.app
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Files build by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.obj
+*.pch
+*.pdb
+*.ipdb
+*.log
+*.tlog
+*.vspscc
+*.vssscc
