@@ -21,3 +21,4 @@ Coming soon.
 | Folder                    | Abstract                                                                                                 |
 |:--------------------------|:---------------------------------------------------------------------------------------------------------|
 | connect_with_rtsp         | Source code samples for displaying images by connecting i-PRO camera and PC with RTSP (H.264/H.265).     |
+| connect_with_mjpeg        | Source code samples for displaying images by connecting i-PRO camera and PC with MJPEG.                  |
