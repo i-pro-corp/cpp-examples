@@ -14,7 +14,12 @@ Windows 上で Microsoft Visual Studio VC++ を使うプログラムと、Linux 
 
 ## linux
 
-Coming soon.
+| Folder                    | Abstract                                                                                                 |
+|:--------------------------|:---------------------------------------------------------------------------------------------------------|
+| connect_with_rtsp         | Source code samples for displaying images by connecting i-PRO camera and PC with RTSP (H.264/H.265).     |
+| connect_with_mjpeg        | Source code samples for displaying images by connecting i-PRO camera and PC with MJPEG.                  |
+| connect_with_jpeg         | Source code samples for displaying images by connecting i-PRO camera and PC with JPEG.                   |
+| connect_with_jpeg_curl    | Source code samples for displaying images by connecting i-PRO camera and PC with JPEG.                   |
 
 ## vs
 
@@ -22,3 +27,4 @@ Coming soon.
 |:--------------------------|:---------------------------------------------------------------------------------------------------------|
 | connect_with_rtsp         | Source code samples for displaying images by connecting i-PRO camera and PC with RTSP (H.264/H.265).     |
 | connect_with_mjpeg        | Source code samples for displaying images by connecting i-PRO camera and PC with MJPEG.                  |
+| connect_with_jpeg         | Source code samples for displaying images by connecting i-PRO camera and PC with JPEG.                   |

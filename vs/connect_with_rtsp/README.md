@@ -17,7 +17,7 @@ We will introduce articles that work in conjunction with the source code that is
 このフォルダに保存するソースコードと連動する記事を紹介します。
 
 - [RTSP で画像を取得する (c++/Visual Studio)](https://i-pro-corp.github.io/Programing-Items/cpp_vs/connect_camera/connect_with_rtsp.html) :link:
-- [OpenSSL をインストールしてみる](https://i-pro-corp.github.io/Programing-Items/cpp_vs/install_opencv.html) :link:
+- [OpenSSL をインストールする](https://i-pro-corp.github.io/Programing-Items/cpp_vs/install_opencv.html) :link:
 - [i-PRO - Programing Items](https://i-pro-corp.github.io/Programing-Items) :link:
 
 ---
